@@ -1,0 +1,119 @@
+[
+  {
+    "baseType": "GradualExperiment",
+    "startTraffic": 2000.0,
+    "id": 1,
+    "type": "REGRESSION",
+    "targetService": "service1",
+    "minDuration": 240,
+    "requiredTotalTraffic": 20000000,
+    "priority": 4,
+    "preferredUserGroup": [
+      "group3"
+    ]
+  },
+  {
+    "baseType": "Experiment",
+    "id": 2,
+    "type": "REGRESSION",
+    "targetService": "service1",
+    "minDuration": 432,
+    "requiredTotalTraffic": 16000000,
+    "priority": 2,
+    "preferredUserGroup": [
+      "group1",
+      "group4"
+    ]
+  },
+  {
+    "baseType": "Experiment",
+    "id": 3,
+    "type": "BUSINESS",
+    "targetService": "service1",
+    "minDuration": 168,
+    "requiredTotalTraffic": 19000000,
+    "priority": 3
+  },
+  {
+    "baseType": "GradualExperiment",
+    "startTraffic": 1500.0,
+    "id": 4,
+    "type": "REGRESSION",
+    "targetService": "service1",
+    "minDuration": 336,
+    "requiredTotalTraffic": 15000000,
+    "priority": 8,
+    "preferredUserGroup": [
+      "group3",
+      "group5"
+    ]
+  },
+  {
+    "baseType": "Experiment",
+    "id": 5,
+    "type": "BUSINESS",
+    "targetService": "service1",
+    "minDuration": 336,
+    "requiredTotalTraffic": 15000000,
+    "priority": 0,
+    "preferredUserGroup": [
+      "group3",
+      "group5"
+    ]
+  },
+  {
+    "baseType": "Experiment",
+    "id": 6,
+    "type": "REGRESSION",
+    "targetService": "service1",
+    "minDuration": 24,
+    "requiredTotalTraffic": 10000,
+    "priority": 7,
+    "preferredUserGroup": [
+      "group1",
+      "group4"
+    ]
+  },
+  {
+    "baseType": "Experiment",
+    "id": 7,
+    "type": "BUSINESS",
+    "targetService": "service1",
+    "minDuration": 48,
+    "requiredTotalTraffic": 100000,
+    "priority": 8,
+    "preferredUserGroup": [
+      "group2"
+    ]
+  },
+  {
+    "baseType": "Experiment",
+    "id": 8,
+    "type": "REGRESSION",
+    "targetService": "service1",
+    "minDuration": 48,
+    "requiredTotalTraffic": 1000000,
+    "priority": 8,
+    "preferredUserGroup": [
+      "group3"
+    ]
+  },
+  {
+    "baseType": "Experiment",
+    "id": 9,
+    "type": "REGRESSION",
+    "targetService": "service1",
+    "minDuration": 24,
+    "requiredTotalTraffic": 1000000,
+    "priority": 3
+  },
+  {
+    "baseType": "Experiment",
+    "id": 10,
+    "type": "BUSINESS",
+    "targetService": "service1",
+    "minDuration": 24,
+    "requiredTotalTraffic": 1000000,
+    "priority": 9
+  }
+]

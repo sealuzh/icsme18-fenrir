@@ -1,0 +1,651 @@
+Note: Start with existing population
+1 seconds for sampling
+population size: 40
+Start Population Size: 40
+Start Genetic Algorithm
+More than 100% traffic at time slot 866, user group 'group2', target service 'service1'
+Generation 1
+best = 0.3835639953613281, average = 0.3200139947235584
+Fitness{durationScore=0.54827046, userGroupScore=0.7577362, startScore=0.03177145, total= 0.383564}
+----------------------
+More than 100% traffic at time slot 868, user group 'group3', target service 'service1'
+More than 100% traffic at time slot 866, user group 'group3', target service 'service1'
+Generation 2
+best = 0.43441420793533325, average = 0.3844159781932831
+Fitness{durationScore=0.6588151, userGroupScore=0.8467653, startScore=0.0038377913, total= 0.4344142}
+----------------------
+More than 100% traffic at time slot 866, user group 'group3', target service 'service1'
+Generation 3
+best = 0.47904881834983826, average = 0.4375150568783283
+Fitness{durationScore=0.69448197, userGroupScore=0.99999905, startScore=0.003140569, total= 0.47904882}
+----------------------
+Generation 4
+best = 0.5115385055541992, average = 0.47759023383259774
+Fitness{durationScore=0.7310552, userGroupScore=0.90602374, startScore=0.094779074, total= 0.5115385}
+----------------------
+Generation 5
+best = 0.5212305784225464, average = 0.5061704710125923
+Fitness{durationScore=0.7839017, userGroupScore=0.95789504, startScore=0.040227167, total= 0.5212306}
+----------------------
+More than 100% traffic at time slot 365, user group 'group3', target service 'service1'
+More than 100% traffic at time slot 366, user group 'group3', target service 'service1'
+More than 100% traffic at time slot 366, user group 'group3', target service 'service1'
+More than 100% traffic at time slot 364, user group 'group2', target service 'service1'
+More than 100% traffic at time slot 365, user group 'group3', target service 'service1'
+Generation 6
+best = 0.5397968292236328, average = 0.5162977792322636
+Fitness{durationScore=0.7943449, userGroupScore=0.96842086, startScore=0.07093674, total= 0.5397968}
+----------------------
+More than 100% traffic at time slot 366, user group 'group3', target service 'service1'
+More than 100% traffic at time slot 366, user group 'group3', target service 'service1'
+More than 100% traffic at time slot 366, user group 'group3', target service 'service1'
+Generation 7
+best = 0.5520693063735962, average = 0.5248439103364945
+Fitness{durationScore=0.81254405, userGroupScore=0.9263156, startScore=0.10447143, total= 0.5520693}
+----------------------
+More than 100% traffic at time slot 366, user group 'group3', target service 'service1'
+More than 100% traffic at time slot 366, user group 'group3', target service 'service1'
+More than 100% traffic at time slot 366, user group 'group3', target service 'service1'
+More than 100% traffic at time slot 364, user group 'group3', target service 'service1'
+More than 100% traffic at time slot 364, user group 'group3', target service 'service1'
+More than 100% traffic at time slot 366, user group 'group3', target service 'service1'
+More than 100% traffic at time slot 366, user group 'group3', target service 'service1'
+More than 100% traffic at time slot 365, user group 'group3', target service 'service1'
+More than 100% traffic at time slot 366, user group 'group3', target service 'service1'
+More than 100% traffic at time slot 366, user group 'group3', target service 'service1'
+More than 100% traffic at time slot 365, user group 'group3', target service 'service1'
+More than 100% traffic at time slot 365, user group 'group3', target service 'service1'
+More than 100% traffic at time slot 366, user group 'group3', target service 'service1'
+More than 100% traffic at time slot 365, user group 'group3', target service 'service1'
+More than 100% traffic at time slot 366, user group 'group3', target service 'service1'
+More than 100% traffic at time slot 364, user group 'group3', target service 'service1'
+More than 100% traffic at time slot 366, user group 'group3', target service 'service1'
+More than 100% traffic at time slot 366, user group 'group3', target service 'service1'
+More than 100% traffic at time slot 366, user group 'group3', target service 'service1'
+More than 100% traffic at time slot 866, user group 'group2', target service 'service1'
+Generation 8
+best = 0.5547151565551758, average = 0.5317685350775718
+Fitness{durationScore=0.8184254, userGroupScore=0.926315, startScore=0.105204925, total= 0.55471516}
+----------------------
+More than 100% traffic at time slot 366, user group 'group3', target service 'service1'
+More than 100% traffic at time slot 361, user group 'group3', target service 'service1'
+More than 100% traffic at time slot 366, user group 'group3', target service 'service1'
+More than 100% traffic at time slot 364, user group 'group3', target service 'service1'
+More than 100% traffic at time slot 364, user group 'group3', target service 'service1'
+More than 100% traffic at time slot 364, user group 'group3', target service 'service1'
+More than 100% traffic at time slot 366, user group 'group3', target service 'service1'
+More than 100% traffic at time slot 366, user group 'group3', target service 'service1'
+More than 100% traffic at time slot 366, user group 'group3', target service 'service1'
+More than 100% traffic at time slot 363, user group 'group3', target service 'service1'
+More than 100% traffic at time slot 366, user group 'group3', target service 'service1'
+More than 100% traffic at time slot 366, user group 'group3', target service 'service1'
+More than 100% traffic at time slot 364, user group 'group3', target service 'service1'
+More than 100% traffic at time slot 364, user group 'group3', target service 'service1'
+More than 100% traffic at time slot 366, user group 'group3', target service 'service1'
+More than 100% traffic at time slot 364, user group 'group3', target service 'service1'
+More than 100% traffic at time slot 364, user group 'group3', target service 'service1'
+More than 100% traffic at time slot 384, user group 'group3', target service 'service1'
+More than 100% traffic at time slot 366, user group 'group3', target service 'service1'
+More than 100% traffic at time slot 365, user group 'group3', target service 'service1'
+Generation 9
+best = 0.5581870079040527, average = 0.5427090704441071
+Fitness{durationScore=0.8037478, userGroupScore=0.8842102, startScore=0.14961462, total= 0.558187}
+----------------------
+More than 100% traffic at time slot 364, user group 'group3', target service 'service1'
+More than 100% traffic at time slot 364, user group 'group3', target service 'service1'
+More than 100% traffic at time slot 366, user group 'group3', target service 'service1'
+More than 100% traffic at time slot 366, user group 'group3', target service 'service1'
+More than 100% traffic at time slot 366, user group 'group3', target service 'service1'
+More than 100% traffic at time slot 365, user group 'group3', target service 'service1'
+More than 100% traffic at time slot 364, user group 'group3', target service 'service1'
+More than 100% traffic at time slot 364, user group 'group3', target service 'service1'
+More than 100% traffic at time slot 366, user group 'group3', target service 'service1'
+More than 100% traffic at time slot 366, user group 'group3', target service 'service1'
+More than 100% traffic at time slot 365, user group 'group3', target service 'service1'
+More than 100% traffic at time slot 366, user group 'group3', target service 'service1'
+More than 100% traffic at time slot 364, user group 'group3', target service 'service1'
+More than 100% traffic at time slot 365, user group 'group3', target service 'service1'
+More than 100% traffic at time slot 366, user group 'group3', target service 'service1'
+Generation 10
+best = 0.5600584745407104, average = 0.5479294419288635
+Fitness{durationScore=0.80750185, userGroupScore=0.8842092, startScore=0.15053977, total= 0.5600585}
+----------------------
+More than 100% traffic at time slot 366, user group 'group3', target service 'service1'
+More than 100% traffic at time slot 366, user group 'group3', target service 'service1'
+More than 100% traffic at time slot 365, user group 'group3', target service 'service1'
+More than 100% traffic at time slot 364, user group 'group3', target service 'service1'
+More than 100% traffic at time slot 364, user group 'group3', target service 'service1'
+More than 100% traffic at time slot 366, user group 'group3', target service 'service1'
+More than 100% traffic at time slot 366, user group 'group3', target service 'service1'
+More than 100% traffic at time slot 365, user group 'group3', target service 'service1'
+More than 100% traffic at time slot 361, user group 'group3', target service 'service1'
+More than 100% traffic at time slot 366, user group 'group3', target service 'service1'
+More than 100% traffic at time slot 366, user group 'group3', target service 'service1'
+More than 100% traffic at time slot 366, user group 'group3', target service 'service1'
+More than 100% traffic at time slot 366, user group 'group3', target service 'service1'
+More than 100% traffic at time slot 362, user group 'group3', target service 'service1'
+More than 100% traffic at time slot 366, user group 'group3', target service 'service1'
+More than 100% traffic at time slot 385, user group 'group3', target service 'service1'
+More than 100% traffic at time slot 364, user group 'group3', target service 'service1'
+More than 100% traffic at time slot 364, user group 'group3', target service 'service1'
+More than 100% traffic at time slot 364, user group 'group3', target service 'service1'
+More than 100% traffic at time slot 366, user group 'group3', target service 'service1'
+More than 100% traffic at time slot 364, user group 'group3', target service 'service1'
+More than 100% traffic at time slot 362, user group 'group3', target service 'service1'
+More than 100% traffic at time slot 366, user group 'group3', target service 'service1'
+More than 100% traffic at time slot 366, user group 'group3', target service 'service1'
+More than 100% traffic at time slot 365, user group 'group3', target service 'service1'
+More than 100% traffic at time slot 366, user group 'group3', target service 'service1'
+More than 100% traffic at time slot 366, user group 'group3', target service 'service1'
+More than 100% traffic at time slot 366, user group 'group3', target service 'service1'
+More than 100% traffic at time slot 366, user group 'group3', target service 'service1'
+More than 100% traffic at time slot 366, user group 'group3', target service 'service1'
+More than 100% traffic at time slot 366, user group 'group3', target service 'service1'
+More than 100% traffic at time slot 366, user group 'group3', target service 'service1'
+Generation 11
+best = 0.5622673630714417, average = 0.5561503425240517
+Fitness{durationScore=0.8126818, userGroupScore=0.8842092, startScore=0.15088195, total= 0.56226736}
+----------------------
+More than 100% traffic at time slot 365, user group 'group3', target service 'service1'
+More than 100% traffic at time slot 364, user group 'group3', target service 'service1'
+More than 100% traffic at time slot 365, user group 'group3', target service 'service1'
+More than 100% traffic at time slot 366, user group 'group3', target service 'service1'
+More than 100% traffic at time slot 365, user group 'group3', target service 'service1'
+More than 100% traffic at time slot 364, user group 'group3', target service 'service1'
+More than 100% traffic at time slot 361, user group 'group3', target service 'service1'
+More than 100% traffic at time slot 364, user group 'group3', target service 'service1'
+More than 100% traffic at time slot 366, user group 'group3', target service 'service1'
+More than 100% traffic at time slot 365, user group 'group3', target service 'service1'
+More than 100% traffic at time slot 366, user group 'group3', target service 'service1'
+More than 100% traffic at time slot 366, user group 'group3', target service 'service1'
+More than 100% traffic at time slot 366, user group 'group3', target service 'service1'
+More than 100% traffic at time slot 366, user group 'group3', target service 'service1'
+Generation 12
+best = 0.5675336718559265, average = 0.5588939771056175
+Fitness{durationScore=0.81062806, userGroupScore=0.9157882, startScore=0.15031199, total= 0.5675337}
+----------------------
+More than 100% traffic at time slot 366, user group 'group3', target service 'service1'
+More than 100% traffic at time slot 365, user group 'group3', target service 'service1'
+More than 100% traffic at time slot 365, user group 'group3', target service 'service1'
+More than 100% traffic at time slot 365, user group 'group3', target service 'service1'
+More than 100% traffic at time slot 362, user group 'group3', target service 'service1'
+More than 100% traffic at time slot 366, user group 'group3', target service 'service1'
+More than 100% traffic at time slot 366, user group 'group3', target service 'service1'
+More than 100% traffic at time slot 366, user group 'group3', target service 'service1'
+More than 100% traffic at time slot 364, user group 'group3', target service 'service1'
+More than 100% traffic at time slot 384, user group 'group3', target service 'service1'
+More than 100% traffic at time slot 365, user group 'group3', target service 'service1'
+More than 100% traffic at time slot 340, user group 'group2', target service 'service1'
+More than 100% traffic at time slot 365, user group 'group3', target service 'service1'
+More than 100% traffic at time slot 366, user group 'group3', target service 'service1'
+Generation 13
+best = 0.5769405961036682, average = 0.5625789955258369
+Fitness{durationScore=0.80800873, userGroupScore=0.9684201, startScore=0.15013261, total= 0.5769406}
+----------------------
+More than 100% traffic at time slot 364, user group 'group3', target service 'service1'
+More than 100% traffic at time slot 365, user group 'group3', target service 'service1'
+More than 100% traffic at time slot 366, user group 'group3', target service 'service1'
+More than 100% traffic at time slot 365, user group 'group3', target service 'service1'
+More than 100% traffic at time slot 365, user group 'group3', target service 'service1'
+More than 100% traffic at time slot 366, user group 'group3', target service 'service1'
+More than 100% traffic at time slot 368, user group 'group3', target service 'service1'
+More than 100% traffic at time slot 361, user group 'group3', target service 'service1'
+More than 100% traffic at time slot 365, user group 'group3', target service 'service1'
+More than 100% traffic at time slot 366, user group 'group3', target service 'service1'
+More than 100% traffic at time slot 365, user group 'group3', target service 'service1'
+Generation 14
+best = 0.5769405961036682, average = 0.5630365088582039
+Fitness{durationScore=0.80800873, userGroupScore=0.9684201, startScore=0.15013261, total= 0.5769406}
+----------------------
+More than 100% traffic at time slot 366, user group 'group3', target service 'service1'
+More than 100% traffic at time slot 365, user group 'group3', target service 'service1'
+More than 100% traffic at time slot 366, user group 'group3', target service 'service1'
+More than 100% traffic at time slot 366, user group 'group3', target service 'service1'
+More than 100% traffic at time slot 365, user group 'group3', target service 'service1'
+More than 100% traffic at time slot 365, user group 'group3', target service 'service1'
+More than 100% traffic at time slot 365, user group 'group3', target service 'service1'
+More than 100% traffic at time slot 365, user group 'group3', target service 'service1'
+More than 100% traffic at time slot 366, user group 'group3', target service 'service1'
+More than 100% traffic at time slot 384, user group 'group3', target service 'service1'
+More than 100% traffic at time slot 366, user group 'group3', target service 'service1'
+Generation 15
+best = 0.5850552320480347, average = 0.5672169744968414
+Fitness{durationScore=0.81115156, userGroupScore=0.9999998, startScore=0.15148653, total= 0.58505523}
+----------------------
+More than 100% traffic at time slot 364, user group 'group3', target service 'service1'
+More than 100% traffic at time slot 365, user group 'group3', target service 'service1'
+More than 100% traffic at time slot 384, user group 'group3', target service 'service1'
+More than 100% traffic at time slot 364, user group 'group3', target service 'service1'
+More than 100% traffic at time slot 365, user group 'group3', target service 'service1'
+Generation 16
+best = 0.5855843424797058, average = 0.5701905816793442
+Fitness{durationScore=0.8122514, userGroupScore=1.0000001, startScore=0.15170926, total= 0.58558434}
+----------------------
+More than 100% traffic at time slot 364, user group 'group3', target service 'service1'
+More than 100% traffic at time slot 364, user group 'group3', target service 'service1'
+More than 100% traffic at time slot 364, user group 'group3', target service 'service1'
+Generation 17
+best = 0.5874118804931641, average = 0.5743067860603333
+Fitness{durationScore=0.8169079, userGroupScore=1.0, startScore=0.15162179, total= 0.5874119}
+----------------------
+More than 100% traffic at time slot 385, user group 'group3', target service 'service1'
+Generation 18
+best = 0.5884899497032166, average = 0.5789788991212845
+Fitness{durationScore=0.81966066, userGroupScore=1.0000001, startScore=0.15156423, total= 0.58848995}
+----------------------
+Generation 19
+best = 0.5898267030715942, average = 0.5847892835736275
+Fitness{durationScore=0.822947, userGroupScore=1.0000005, startScore=0.1516195, total= 0.5898267}
+----------------------
+More than 100% traffic at time slot 369, user group 'group3', target service 'service1'
+Generation 20
+best = 0.5902871489524841, average = 0.5878744840621948
+Fitness{durationScore=0.8220512, userGroupScore=0.999158, startScore=0.15408768, total= 0.59028715}
+----------------------
+Generation 21
+best = 0.6092004776000977, average = 0.5897043466567993
+Fitness{durationScore=0.8217232, userGroupScore=1.0000001, startScore=0.20127782, total= 0.6092005}
+----------------------
+More than 100% traffic at time slot 369, user group 'group3', target service 'service1'
+More than 100% traffic at time slot 366, user group 'group3', target service 'service1'
+More than 100% traffic at time slot 369, user group 'group3', target service 'service1'
+Generation 22
+best = 0.6101518869400024, average = 0.5893443405628205
+Fitness{durationScore=0.82204413, userGroupScore=1.0000004, startScore=0.20333534, total= 0.6101519}
+----------------------
+More than 100% traffic at time slot 366, user group 'group3', target service 'service1'
+More than 100% traffic at time slot 366, user group 'group3', target service 'service1'
+More than 100% traffic at time slot 369, user group 'group3', target service 'service1'
+More than 100% traffic at time slot 366, user group 'group3', target service 'service1'
+Generation 23
+best = 0.610959529876709, average = 0.5951719343662262
+Fitness{durationScore=0.82329357, userGroupScore=1.0, startScore=0.20410518, total= 0.61095953}
+----------------------
+More than 100% traffic at time slot 369, user group 'group3', target service 'service1'
+More than 100% traffic at time slot 366, user group 'group3', target service 'service1'
+More than 100% traffic at time slot 361, user group 'group2', target service 'service1'
+More than 100% traffic at time slot 366, user group 'group3', target service 'service1'
+More than 100% traffic at time slot 366, user group 'group3', target service 'service1'
+More than 100% traffic at time slot 369, user group 'group3', target service 'service1'
+More than 100% traffic at time slot 361, user group 'group3', target service 'service1'
+Generation 24
+best = 0.6114500761032104, average = 0.6028305426239967
+Fitness{durationScore=0.82493085, userGroupScore=1.0000004, startScore=0.20369415, total= 0.6114501}
+----------------------
+More than 100% traffic at time slot 369, user group 'group3', target service 'service1'
+More than 100% traffic at time slot 369, user group 'group3', target service 'service1'
+More than 100% traffic at time slot 369, user group 'group3', target service 'service1'
+More than 100% traffic at time slot 365, user group 'group3', target service 'service1'
+More than 100% traffic at time slot 369, user group 'group3', target service 'service1'
+Generation 25
+best = 0.6143890619277954, average = 0.6074532955884934
+Fitness{durationScore=0.82515746, userGroupScore=0.9999995, startScore=0.21081533, total= 0.61438906}
+----------------------
+More than 100% traffic at time slot 366, user group 'group3', target service 'service1'
+More than 100% traffic at time slot 366, user group 'group3', target service 'service1'
+More than 100% traffic at time slot 366, user group 'group3', target service 'service1'
+More than 100% traffic at time slot 366, user group 'group3', target service 'service1'
+More than 100% traffic at time slot 366, user group 'group3', target service 'service1'
+More than 100% traffic at time slot 365, user group 'group3', target service 'service1'
+Generation 26
+best = 0.6335336565971375, average = 0.6106107518076896
+Fitness{durationScore=0.82563555, userGroupScore=0.9578947, startScore=0.27925122, total= 0.63353366}
+----------------------
+More than 100% traffic at time slot 366, user group 'group3', target service 'service1'
+More than 100% traffic at time slot 362, user group 'group3', target service 'service1'
+More than 100% traffic at time slot 369, user group 'group3', target service 'service1'
+More than 100% traffic at time slot 366, user group 'group3', target service 'service1'
+More than 100% traffic at time slot 366, user group 'group3', target service 'service1'
+More than 100% traffic at time slot 366, user group 'group3', target service 'service1'
+More than 100% traffic at time slot 369, user group 'group3', target service 'service1'
+More than 100% traffic at time slot 366, user group 'group3', target service 'service1'
+More than 100% traffic at time slot 366, user group 'group3', target service 'service1'
+More than 100% traffic at time slot 366, user group 'group3', target service 'service1'
+More than 100% traffic at time slot 366, user group 'group3', target service 'service1'
+More than 100% traffic at time slot 366, user group 'group3', target service 'service1'
+More than 100% traffic at time slot 366, user group 'group3', target service 'service1'
+More than 100% traffic at time slot 366, user group 'group3', target service 'service1'
+More than 100% traffic at time slot 369, user group 'group3', target service 'service1'
+More than 100% traffic at time slot 364, user group 'group3', target service 'service1'
+More than 100% traffic at time slot 366, user group 'group3', target service 'service1'
+More than 100% traffic at time slot 366, user group 'group3', target service 'service1'
+More than 100% traffic at time slot 366, user group 'group3', target service 'service1'
+More than 100% traffic at time slot 366, user group 'group3', target service 'service1'
+More than 100% traffic at time slot 366, user group 'group3', target service 'service1'
+More than 100% traffic at time slot 366, user group 'group3', target service 'service1'
+Generation 27
+best = 0.6339473724365234, average = 0.6139324858784676
+Fitness{durationScore=0.8262275, userGroupScore=0.9578945, startScore=0.27969363, total= 0.6339474}
+----------------------
+More than 100% traffic at time slot 366, user group 'group3', target service 'service1'
+More than 100% traffic at time slot 366, user group 'group3', target service 'service1'
+More than 100% traffic at time slot 361, user group 'group3', target service 'service1'
+More than 100% traffic at time slot 364, user group 'group3', target service 'service1'
+More than 100% traffic at time slot 366, user group 'group3', target service 'service1'
+More than 100% traffic at time slot 366, user group 'group3', target service 'service1'
+More than 100% traffic at time slot 366, user group 'group3', target service 'service1'
+More than 100% traffic at time slot 366, user group 'group3', target service 'service1'
+More than 100% traffic at time slot 369, user group 'group3', target service 'service1'
+More than 100% traffic at time slot 366, user group 'group3', target service 'service1'
+More than 100% traffic at time slot 366, user group 'group3', target service 'service1'
+More than 100% traffic at time slot 366, user group 'group3', target service 'service1'
+Generation 28
+best = 0.6448067426681519, average = 0.6170417681336403
+Fitness{durationScore=0.82612205, userGroupScore=0.9578945, startScore=0.30694756, total= 0.64480674}
+----------------------
+More than 100% traffic at time slot 364, user group 'group3', target service 'service1'
+More than 100% traffic at time slot 365, user group 'group3', target service 'service1'
+More than 100% traffic at time slot 369, user group 'group3', target service 'service1'
+More than 100% traffic at time slot 366, user group 'group3', target service 'service1'
+More than 100% traffic at time slot 366, user group 'group3', target service 'service1'
+More than 100% traffic at time slot 366, user group 'group3', target service 'service1'
+More than 100% traffic at time slot 369, user group 'group3', target service 'service1'
+More than 100% traffic at time slot 364, user group 'group3', target service 'service1'
+Generation 29
+best = 0.6449889540672302, average = 0.6243606880307198
+Fitness{durationScore=0.8267077, userGroupScore=0.95789444, startScore=0.30681744, total= 0.64498895}
+----------------------
+More than 100% traffic at time slot 364, user group 'group3', target service 'service1'
+More than 100% traffic at time slot 364, user group 'group3', target service 'service1'
+More than 100% traffic at time slot 366, user group 'group3', target service 'service1'
+More than 100% traffic at time slot 366, user group 'group3', target service 'service1'
+More than 100% traffic at time slot 364, user group 'group3', target service 'service1'
+More than 100% traffic at time slot 364, user group 'group3', target service 'service1'
+Generation 30
+best = 0.653961181640625, average = 0.6317230552434921
+Fitness{durationScore=0.8280502, userGroupScore=1.0000001, startScore=0.3068526, total= 0.6539612}
+----------------------
+More than 100% traffic at time slot 364, user group 'group3', target service 'service1'
+More than 100% traffic at time slot 365, user group 'group3', target service 'service1'
+More than 100% traffic at time slot 364, user group 'group3', target service 'service1'
+More than 100% traffic at time slot 365, user group 'group3', target service 'service1'
+Generation 31
+best = 0.65455561876297, average = 0.6389931619167328
+Fitness{durationScore=0.82951456, userGroupScore=0.99999976, startScore=0.30687463, total= 0.6545556}
+----------------------
+More than 100% traffic at time slot 369, user group 'group3', target service 'service1'
+Generation 32
+best = 0.6550787091255188, average = 0.6460664585232735
+Fitness{durationScore=0.83082235, userGroupScore=0.9999997, startScore=0.3068745, total= 0.6550787}
+----------------------
+More than 100% traffic at time slot 366, user group 'group3', target service 'service1'
+More than 100% traffic at time slot 369, user group 'group3', target service 'service1'
+More than 100% traffic at time slot 361, user group 'group3', target service 'service1'
+More than 100% traffic at time slot 369, user group 'group3', target service 'service1'
+Generation 33
+best = 0.6560121774673462, average = 0.6474560409784317
+Fitness{durationScore=0.8331533, userGroupScore=1.0, startScore=0.30687702, total= 0.6560122}
+----------------------
+More than 100% traffic at time slot 365, user group 'group3', target service 'service1'
+More than 100% traffic at time slot 364, user group 'group3', target service 'service1'
+More than 100% traffic at time slot 369, user group 'group3', target service 'service1'
+More than 100% traffic at time slot 369, user group 'group3', target service 'service1'
+More than 100% traffic at time slot 362, user group 'group3', target service 'service1'
+More than 100% traffic at time slot 369, user group 'group3', target service 'service1'
+Generation 34
+best = 0.6567729115486145, average = 0.6539343580603599
+Fitness{durationScore=0.8348027, userGroupScore=0.9999998, startScore=0.3071296, total= 0.6567729}
+----------------------
+More than 100% traffic at time slot 365, user group 'group3', target service 'service1'
+More than 100% traffic at time slot 365, user group 'group3', target service 'service1'
+Generation 35
+best = 0.6578172445297241, average = 0.6505012199282646
+Fitness{durationScore=0.8373833, userGroupScore=0.9999998, startScore=0.30715993, total= 0.65781724}
+----------------------
+More than 100% traffic at time slot 365, user group 'group3', target service 'service1'
+More than 100% traffic at time slot 364, user group 'group3', target service 'service1'
+Generation 36
+best = 0.6583080887794495, average = 0.6541308835148811
+Fitness{durationScore=0.8386146, userGroupScore=0.9999998, startScore=0.30715573, total= 0.6583081}
+----------------------
+More than 100% traffic at time slot 364, user group 'group3', target service 'service1'
+More than 100% traffic at time slot 364, user group 'group3', target service 'service1'
+More than 100% traffic at time slot 364, user group 'group3', target service 'service1'
+Generation 37
+best = 0.6586955189704895, average = 0.6515794605016708
+Fitness{durationScore=0.83957124, userGroupScore=0.9999998, startScore=0.30716756, total= 0.6586955}
+----------------------
+More than 100% traffic at time slot 536, user group 'group2', target service 'service1'
+More than 100% traffic at time slot 365, user group 'group3', target service 'service1'
+Generation 38
+best = 0.66090327501297, average = 0.6562100976705552
+Fitness{durationScore=0.8450819, userGroupScore=0.9999998, startScore=0.3071762, total= 0.6609033}
+----------------------
+Generation 39
+best = 0.66090327501297, average = 0.657481949031353
+Fitness{durationScore=0.8450819, userGroupScore=0.9999998, startScore=0.3071762, total= 0.6609033}
+----------------------
+More than 100% traffic at time slot 358, user group 'group2', target service 'service1'
+More than 100% traffic at time slot 536, user group 'group2', target service 'service1'
+Generation 40
+best = 0.66090327501297, average = 0.658783407509327
+Fitness{durationScore=0.8450819, userGroupScore=0.9999998, startScore=0.3071762, total= 0.6609033}
+----------------------
+More than 100% traffic at time slot 364, user group 'group3', target service 'service1'
+More than 100% traffic at time slot 364, user group 'group3', target service 'service1'
+Generation 41
+best = 0.660916805267334, average = 0.6572137922048569
+Fitness{durationScore=0.84509486, userGroupScore=0.99999976, startScore=0.3071973, total= 0.6609168}
+----------------------
+More than 100% traffic at time slot 369, user group 'group3', target service 'service1'
+More than 100% traffic at time slot 361, user group 'group3', target service 'service1'
+More than 100% traffic at time slot 361, user group 'group2', target service 'service1'
+Generation 42
+best = 0.6613636016845703, average = 0.6549089819192886
+Fitness{durationScore=0.8461415, userGroupScore=0.9999989, startScore=0.307268, total= 0.6613636}
+----------------------
+More than 100% traffic at time slot 361, user group 'group3', target service 'service1'
+Generation 43
+best = 0.6627577543258667, average = 0.6588663727045059
+Fitness{durationScore=0.8495777, userGroupScore=0.9999991, startScore=0.3073171, total= 0.66275775}
+----------------------
+Generation 44
+best = 0.6632604598999023, average = 0.658903120458126
+Fitness{durationScore=0.8495777, userGroupScore=0.9999991, startScore=0.3085739, total= 0.66326046}
+----------------------
+Generation 45
+best = 0.6634097099304199, average = 0.659551964700222
+Fitness{durationScore=0.8510567, userGroupScore=0.99999905, startScore=0.30746806, total= 0.6634097}
+----------------------
+More than 100% traffic at time slot 368, user group 'group3', target service 'service1'
+Generation 46
+best = 0.6638898849487305, average = 0.65915657132864
+Fitness{durationScore=0.8510567, userGroupScore=0.99999905, startScore=0.30866846, total= 0.6638899}
+----------------------
+More than 100% traffic at time slot 365, user group 'group3', target service 'service1'
+More than 100% traffic at time slot 343, user group 'group3', target service 'service1'
+Generation 47
+best = 0.6641937494277954, average = 0.6621614903211593
+Fitness{durationScore=0.85181636, userGroupScore=0.99999905, startScore=0.30866846, total= 0.66419375}
+----------------------
+Generation 48
+best = 0.6644400358200073, average = 0.661239443719387
+Fitness{durationScore=0.8510567, userGroupScore=0.99999905, startScore=0.31004384, total= 0.66444004}
+----------------------
+Generation 49
+best = 0.6649189591407776, average = 0.6615837797522545
+Fitness{durationScore=0.8522553, userGroupScore=0.99999934, startScore=0.3100424, total= 0.66491896}
+----------------------
+More than 100% traffic at time slot 361, user group 'group3', target service 'service1'
+More than 100% traffic at time slot 343, user group 'group3', target service 'service1'
+Generation 50
+best = 0.6652800440788269, average = 0.6638683989644051
+Fitness{durationScore=0.85315585, userGroupScore=0.99999934, startScore=0.31004465, total= 0.66528004}
+----------------------
+More than 100% traffic at time slot 200, user group 'group2', target service 'service1'
+Generation 51
+best = 0.6654490232467651, average = 0.662328788638115
+Fitness{durationScore=0.852214, userGroupScore=0.99999905, startScore=0.31140894, total= 0.665449}
+----------------------
+More than 100% traffic at time slot 368, user group 'group3', target service 'service1'
+Generation 52
+best = 0.669039249420166, average = 0.6642186805605889
+Fitness{durationScore=0.85315585, userGroupScore=0.99999934, startScore=0.3194426, total= 0.66903925}
+----------------------
+More than 100% traffic at time slot 536, user group 'group2', target service 'service1'
+Generation 53
+best = 0.68429034948349, average = 0.6658601447939873
+Fitness{durationScore=0.85315585, userGroupScore=0.99999934, startScore=0.35757032, total= 0.68429035}
+----------------------
+Generation 54
+best = 0.6849759221076965, average = 0.665335564315319
+Fitness{durationScore=0.8546882, userGroupScore=0.99999934, startScore=0.35775194, total= 0.6849759}
+----------------------
+Generation 55
+best = 0.6853211522102356, average = 0.6690152734518051
+Fitness{durationScore=0.8555365, userGroupScore=0.9999995, startScore=0.35776663, total= 0.68532115}
+----------------------
+More than 100% traffic at time slot 196, user group 'group2', target service 'service1'
+Generation 56
+best = 0.6861726641654968, average = 0.676053024828434
+Fitness{durationScore=0.8576345, userGroupScore=0.9999997, startScore=0.35779724, total= 0.68617266}
+----------------------
+Generation 57
+best = 0.6866253614425659, average = 0.6834797009825706
+Fitness{durationScore=0.8586895, userGroupScore=0.9999998, startScore=0.35787404, total= 0.68662536}
+----------------------
+Generation 58
+best = 0.6866300106048584, average = 0.6843430772423744
+Fitness{durationScore=0.8587079, userGroupScore=0.9999998, startScore=0.35786712, total= 0.68663}
+----------------------
+Generation 59
+best = 0.687159538269043, average = 0.682829712331295
+Fitness{durationScore=0.8600991, userGroupScore=0.9999998, startScore=0.35779974, total= 0.68715954}
+----------------------
+Generation 60
+best = 0.6874880194664001, average = 0.6857328116893768
+Fitness{durationScore=0.8609075, userGroupScore=0.99999976, startScore=0.35781258, total= 0.687488}
+----------------------
+Generation 61
+best = 0.6880810856819153, average = 0.6853102073073387
+Fitness{durationScore=0.8624043, userGroupScore=0.99999976, startScore=0.35779846, total= 0.6880811}
+----------------------
+Generation 62
+best = 0.6884248852729797, average = 0.6861363023519516
+Fitness{durationScore=0.8632496, userGroupScore=0.9999998, startScore=0.35781258, total= 0.6884249}
+----------------------
+Generation 63
+best = 0.6890214681625366, average = 0.6855642214417458
+Fitness{durationScore=0.86470014, userGroupScore=0.9999997, startScore=0.35785356, total= 0.68902147}
+----------------------
+Generation 64
+best = 0.6891133785247803, average = 0.687201477587223
+Fitness{durationScore=0.8648295, userGroupScore=0.9999995, startScore=0.35795417, total= 0.6891134}
+----------------------
+More than 100% traffic at time slot 199, user group 'group2', target service 'service1'
+Generation 65
+best = 0.6892691850662231, average = 0.6870011985301971
+Fitness{durationScore=0.86521065, userGroupScore=0.9999995, startScore=0.35796246, total= 0.6892692}
+----------------------
+Generation 66
+best = 0.6893011331558228, average = 0.6851940363645553
+Fitness{durationScore=0.86532164, userGroupScore=1.0000005, startScore=0.357931, total= 0.68930113}
+----------------------
+Generation 67
+best = 0.689487874507904, average = 0.6869491145014763
+Fitness{durationScore=0.86565596, userGroupScore=1.0000004, startScore=0.3580634, total= 0.6894879}
+----------------------
+Generation 68
+best = 0.6895830631256104, average = 0.6855328664183616
+Fitness{durationScore=0.8657451, userGroupScore=1.0000004, startScore=0.35821235, total= 0.68958306}
+----------------------
+Generation 69
+best = 0.6896635293960571, average = 0.6821839988231659
+Fitness{durationScore=0.8657451, userGroupScore=1.0000004, startScore=0.35841343, total= 0.6896635}
+----------------------
+Generation 70
+best = 0.6962058544158936, average = 0.6854028701782227
+Fitness{durationScore=0.8658573, userGroupScore=1.0000005, startScore=0.37465698, total= 0.69620585}
+----------------------
+Generation 71
+best = 0.6962058544158936, average = 0.6895136117935181
+Fitness{durationScore=0.8658573, userGroupScore=1.0000005, startScore=0.37465698, total= 0.69620585}
+----------------------
+Generation 72
+best = 0.6965972185134888, average = 0.6888589903712272
+Fitness{durationScore=0.86655384, userGroupScore=1.0000005, startScore=0.37493896, total= 0.6965972}
+----------------------
+Generation 73
+best = 0.6965972185134888, average = 0.6881722927093505
+Fitness{durationScore=0.86655384, userGroupScore=1.0000005, startScore=0.37493896, total= 0.6965972}
+----------------------
+More than 100% traffic at time slot 340, user group 'group3', target service 'service1'
+Generation 74
+best = 0.6981557011604309, average = 0.6893745362758636
+Fitness{durationScore=0.8703951, userGroupScore=1.0000005, startScore=0.3749938, total= 0.6981557}
+----------------------
+Generation 75
+best = 0.6981627941131592, average = 0.6931871086359024
+Fitness{durationScore=0.8703952, userGroupScore=1.0000005, startScore=0.37501156, total= 0.6981628}
+----------------------
+Generation 76
+best = 0.6984323859214783, average = 0.6902635738253593
+Fitness{durationScore=0.8710238, userGroupScore=1.0000001, startScore=0.3750572, total= 0.6984324}
+----------------------
+Generation 77
+best = 0.6985796689987183, average = 0.6941811755299568
+Fitness{durationScore=0.8709408, userGroupScore=1.0000004, startScore=0.3755081, total= 0.69857967}
+----------------------
+Generation 78
+best = 0.6988205909729004, average = 0.6948846340179443
+Fitness{durationScore=0.8715938, userGroupScore=1.0, startScore=0.37545776, total= 0.6988206}
+----------------------
+More than 100% traffic at time slot 538, user group 'group2', target service 'service1'
+Generation 79
+best = 0.6988205909729004, average = 0.6962764680385589
+Fitness{durationScore=0.8715938, userGroupScore=1.0, startScore=0.37545776, total= 0.6988206}
+----------------------
+More than 100% traffic at time slot 341, user group 'group3', target service 'service1'
+Generation 80
+best = 0.6996840834617615, average = 0.6978513956069946
+Fitness{durationScore=0.8732756, userGroupScore=1.0, startScore=0.37593457, total= 0.6996841}
+----------------------
+Generation 81
+best = 0.6998884081840515, average = 0.6976234063506126
+Fitness{durationScore=0.8736435, userGroupScore=0.99999994, startScore=0.37607738, total= 0.6998884}
+----------------------
+Generation 82
+best = 0.7172958850860596, average = 0.6950032770633697
+Fitness{durationScore=0.8732756, userGroupScore=1.0, startScore=0.41996396, total= 0.7172959}
+----------------------
+Generation 83
+best = 0.7172958850860596, average = 0.6987770989537239
+Fitness{durationScore=0.8732756, userGroupScore=1.0, startScore=0.41996396, total= 0.7172959}
+----------------------
+More than 100% traffic at time slot 195, user group 'group2', target service 'service1'
+More than 100% traffic at time slot 343, user group 'group3', target service 'service1'
+Generation 84
+best = 0.7174822688102722, average = 0.6965705901384354
+Fitness{durationScore=0.87362945, userGroupScore=1.0, startScore=0.42007628, total= 0.71748227}
+----------------------
+More than 100% traffic at time slot 535, user group 'group2', target service 'service1'
+Generation 85
+best = 0.7181484699249268, average = 0.7028263852000236
+Fitness{durationScore=0.87518644, userGroupScore=0.99999994, startScore=0.42018464, total= 0.71814847}
+----------------------
+More than 100% traffic at time slot 516, user group 'group2', target service 'service1'
+Generation 86
+best = 0.718921422958374, average = 0.7061651393771171
+Fitness{durationScore=0.87376595, userGroupScore=0.99999994, startScore=0.42353755, total= 0.7189214}
+----------------------
+More than 100% traffic at time slot 196, user group 'group4', target service 'service1'
+Generation 87
+best = 0.7195551991462708, average = 0.7095594525337219
+Fitness{durationScore=0.87534785, userGroupScore=0.99999994, startScore=0.4235402, total= 0.7195552}
+----------------------
+More than 100% traffic at time slot 339, user group 'group3', target service 'service1'
+Generation 88
+best = 0.7217037081718445, average = 0.7143903940916061
+Fitness{durationScore=0.8752625, userGroupScore=1.0, startScore=0.4289967, total= 0.7217037}
+----------------------
+Generation 89
+best = 0.7322738766670227, average = 0.715256755053997
+Fitness{durationScore=0.8763895, userGroupScore=0.96842086, startScore=0.47008467, total= 0.7322739}
+----------------------
+Generation 90
+best = 0.7380006313323975, average = 0.7192628636956215
+Fitness{durationScore=0.8768849, userGroupScore=0.99605244, startScore=0.47009048, total= 0.73800063}
+----------------------
+Best at start: Fitness{durationScore=0.46190584, userGroupScore=0.6315809, startScore=0.004106132, total= 0.31272098}
+Best (genetic): Fitness{durationScore=0.8768849, userGroupScore=0.99605244, startScore=0.47009048, total= 0.73800063}
+Total Runtime: 00:35:23:676 (2123 sec)

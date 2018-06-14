@@ -1,0 +1,58 @@
+[
+   {
+      "baseType": "GradualExperiment",
+      "startTraffic": 15000.0,
+      "id": 51,
+      "type": "REGRESSION",
+      "targetService": "service1",
+      "minDuration": 240,
+      "requiredTotalTraffic": 15000000,
+      "priority": 6,
+      "preferredUserGroup": [
+        "group3"
+      ]
+   },
+   {
+      "baseType": "Experiment",
+      "id": 52,
+      "type": "REGRESSION",
+      "targetService": "service1",
+      "minDuration": 96,
+      "requiredTotalTraffic": 500000,
+      "priority": 6
+    },
+   {
+      "baseType": "Experiment",
+      "id": 53,
+      "type": "BUSINESS",
+      "targetService": "service1",
+      "minDuration": 240,
+      "requiredTotalTraffic": 2000000,
+      "priority": 8
+    },
+    {
+      "baseType": "GradualExperiment",
+      "startTraffic": 3000.0,
+      "id": 54,
+      "type": "REGRESSION",
+      "targetService": "service1",
+      "minDuration": 120,
+      "requiredTotalTraffic": 5000000,
+      "priority": 4,
+      "preferredUserGroup": [
+        "group1"      
+      ]
+    },
+    {
+      "baseType": "Experiment",
+      "id": 55,
+      "type": "BUSINESS",
+      "targetService": "service1",
+      "minDuration": 168,
+      "requiredTotalTraffic": 1000000,
+      "priority": 10,
+      "preferredUserGroup": [
+        "group5"
+      ]
+    }
+]
