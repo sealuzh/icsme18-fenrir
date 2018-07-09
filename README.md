@@ -1,6 +1,6 @@
 ## Search-Based Scheduling of Experiments in Continuous Deployment - Online Appendix
 
-This is the online appendix for our submission to ICSME. It contains the source code of the implementations of a genetic algorithm, random sampling, local search, and simulated annealing. Further, it provides a pre-built replication package to replicate all our evaluation runs (on any machine running at least Java 8), and detailled information on how to use the tooling.
+This is the online appendix for our paper accepted at [ICSME'18](https://icsme2018.github.io/). It contains the source code of the implementations of a genetic algorithm, random sampling, local search, and simulated annealing. Further, it provides a pre-built replication package to replicate all our evaluation runs (on any machine running at least Java 8), and detailled information on how to use the tooling.
 
 ### Table of Contents
 1. **[Source Code](#source-code)**<br>
